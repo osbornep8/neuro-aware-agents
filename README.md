@@ -34,11 +34,11 @@ Recent advances in LLMs and behavioral pattern recognition enable a new class of
 
 This framework addresses several open research questions:
 
-- **1**: Can AI agents reliably infer executive function levels and cognitive load from behavioral interaction patterns?
-- **2**: What behavioral signals are most predictive of cognitive state transitions in neurodiverse populations?
-- **3**: How should agent communication strategies adapt to different neuroprofiles (e.g., direct vs. suggestive, proactive vs. reactive)?
-- **4**: What are the ethical implications and safety considerations for AI systems that infer and act on cognitive states?
-- **5**: Can sensor data (wearables, BCIs) enhance behavioral inference accuracy and enable real-time adaptation?
+1. Can AI agents reliably infer executive function levels and cognitive load from behavioral interaction patterns?
+2. What behavioral signals are most predictive of cognitive state transitions in neurodiverse populations?
+3. How should agent communication strategies adapt to different neuroprofiles (e.g., direct vs. suggestive, proactive vs. reactive)?
+4. What are the ethical implications and safety considerations for AI systems that infer and act on cognitive states?
+5. Can sensor data (wearables, BCIs) enhance behavioral inference accuracy and enable real-time adaptation?
 
 ## System Architecture
 
