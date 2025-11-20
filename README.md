@@ -328,7 +328,7 @@ We are actively seeking research partnerships with:
 - **Universities**: Clinical psychology, HCI, ML/AI, neuroscience, ethics departments
 - **Healthcare organizations**: ADHD clinics, neurodiversity support services
 - **Industry**: Wearable tech companies, BCI startups, enterprise productivity platforms
-- **Funding agencies**: NSF, NIH, foundations supporting neurodiversity research
+- **Funding agencies**: NIHR, Innovate UK, foundations supporting neurodiversity research
 
 ### Contact
 
@@ -337,49 +337,13 @@ For research collaboration, clinical trial partnerships, or technical inquiries:
 - **Primary Investigator**: Osborne Pereira
 - **Institution Affiliation**: [To be determined through partnership]
 - **Email**: pereiraosborne8@gmail.com
-- **Project Repository**: CogPilot/neuro-aware-agents
+- **Project Repository**: neuro-aware-agents
 
 ### Current Status
 
 - **Prototype**: Functional behavioral inference and adaptive agent system
 - **Seeking**: University research partner for IRB-approved clinical validation
 - **Timeline**: Aim to initiate pilot study Q1-Q2 2026
-
-## Technical Resources
-
-### Documentation
-
-- **API Specification**: See `/docs/intelligence-api.md` (upcoming)
-- **Behavioral Metrics**: See `/docs/behavioral-metrics.md` (upcoming)
-- **Agent Integration Guide**: See `/docs/agent-integration.md` (upcoming)
-
-### Demo & Presentations
-
-- **Live Demo**: [To be deployed for academic review]
-- **Research Poster**: [Upcoming - submit to AI conferences]
-- **Presentation Deck**: [Upcoming]
-
-## Publications & Dissemination
-
-### Planned Publications
-
-1. **"Neuro-Aware Agentic Systems: Inferring Executive Function from Behavioral Data"**
-2. **"Clinical Validation of AI-Based Executive Function Inference in ADHD Populations"**
-3. **"Ethical Frameworks for Cognitive State Inference in Assistive AI"**
-
-### Conference Presentations
-
-- **Target conferences**: CHI, CSCW, ASSETS, NeurIPS (ML for Healthcare), AAAI (AI for Social Impact)
-- **Workshops**: Neurodiversity in HCI, AI for Mental Health, Adaptive User Interfaces
-
-## Acknowledgments
-
-This research builds upon foundational work in:
-
-- **Behavioral pattern recognition**: Time-series analysis, anomaly detection
-- **Adaptive user interfaces**: Context-aware computing, intelligent tutoring systems
-- **ADHD research**: Executive function assessment, intervention design, assistive technology
-- **AI ethics**: Privacy, autonomy, fairness in algorithmic decision-making
 
 ---
 
